@@ -1,40 +1,68 @@
-# Hi, I'm Ecem Aslan 👋
+<h1 align="center">Hi, I'm Ecem Aslan 👋</h1>
 
-Mechanical Engineering student at TOBB University of Economics and Technology.
+<h3 align="center">
+Mechanical Engineering Student | CAD Designer | Product Development
+</h3>
 
-I am currently gaining hands-on experience in mechanical design, CAD modeling, product development, and manufacturing processes. My main interests include mechanical design, aerospace and defense industry applications, 3D printing, and engineering product development.
+---
 
-## 🔧 Technical Skills
+## 👩‍💻 About Me
+
+🎓 Mechanical Engineering student at TOBB University of Economics and Technology
+
+🏭 Currently working as a Mechanical Engineering Intern
+
+⚙️ Interested in:
+
+- Mechanical Design
+- Product Development
+- Defense Industry
+- Aerospace
+- Manufacturing Technologies
+- 3D Printing
+
+---
+
+## 🛠️ CAD & Engineering
 
 - Autodesk Inventor
 - Siemens NX
 - SolidWorks
-- Mechanical Design
-- CAD Modeling
-- 3D Printing
+- Technical Drawings
+- Design for Manufacturing (DFM)
 - Sheet Metal Design
 - CNC Manufacturing
-- Technical Documentation
-- Python
-- C Programming
+- Mechanical Assembly
 
-## 🚀 Current Focus
+---
 
-- Mechanical enclosure design
-- Product development projects
-- Design for manufacturing
-- Improving my CAD portfolio
-- Learning Python for engineering applications
+## 💻 Programming
 
-## 📌 Featured Project Areas
+- Python (Learning)
+- C
 
-- Motor driver enclosure design
-- RF electronics enclosure design
-- Battery and amplifier box design
-- CAD practice models
-- 3D printed functional parts
+---
+
+## 🚀 Current Projects
+
+- RF Enclosure Design
+- Motor Driver Enclosure
+- Battery & Amplifier Housing
+- Functional 3D Printed Parts
+
+---
+
+## 🌱 Currently Learning
+
+- Python for Engineering
+- Git & GitHub
+- GD&T
+- Design Optimization
+
+---
 
 ## 📫 Connect with Me
 
-- LinkedIn: https://www.linkedin.com/in/idilecemaslan/
-- Email: idilecemaslan@gmail.com
+LinkedIn: https://www.linkedin.com/in/idilecemaslan/
+
+Email: idilecemaslan@gmail.com
